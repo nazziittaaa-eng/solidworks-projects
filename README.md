@@ -9,8 +9,7 @@ SolidWorks CAD models created in **SolidWorks 2025**.
 
 ## 🛠️ Notes
 - File types: `.SLDPRT`, `.SLDASM` (SolidWorks 2025 format)  
-- CAD files are binary, so Git cannot show line-by-line differences  
-- Consider [Git LFS](https://git-lfs.com/) for large files  
+
 
 ## 🚀 Getting Started
 ```bash
